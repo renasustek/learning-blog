@@ -1,3 +1,3 @@
 ---
-title: Welcome to my Diataxis blog!
+title: Welcome to my blog!
 ---
